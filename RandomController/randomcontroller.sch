@@ -8,34 +8,34 @@
 </settings>
 <grid distance="0.1" unitdist="inch" unit="inch" style="lines" multiple="1" display="no" altdistance="0.01" altunitdist="inch" altunit="inch"/>
 <layers>
-<layer number="1" name="Top" color="4" fill="1" visible="yes" active="no"/>
-<layer number="2" name="Route2" color="1" fill="3" visible="yes" active="no"/>
-<layer number="3" name="Route3" color="4" fill="3" visible="yes" active="no"/>
-<layer number="4" name="Route4" color="1" fill="4" visible="yes" active="no"/>
-<layer number="5" name="Route5" color="4" fill="4" visible="yes" active="no"/>
-<layer number="6" name="Route6" color="1" fill="8" visible="yes" active="no"/>
-<layer number="7" name="Route7" color="4" fill="8" visible="yes" active="no"/>
-<layer number="8" name="Route8" color="1" fill="2" visible="yes" active="no"/>
-<layer number="9" name="Route9" color="4" fill="2" visible="yes" active="no"/>
-<layer number="10" name="Route10" color="1" fill="7" visible="yes" active="no"/>
-<layer number="11" name="Route11" color="4" fill="7" visible="yes" active="no"/>
-<layer number="12" name="Route12" color="1" fill="5" visible="yes" active="no"/>
-<layer number="13" name="Route13" color="4" fill="5" visible="yes" active="no"/>
-<layer number="14" name="Route14" color="1" fill="6" visible="yes" active="no"/>
-<layer number="15" name="Route15" color="4" fill="6" visible="yes" active="no"/>
-<layer number="16" name="Bottom" color="1" fill="1" visible="yes" active="no"/>
-<layer number="17" name="Pads" color="2" fill="1" visible="yes" active="no"/>
-<layer number="18" name="Vias" color="2" fill="1" visible="yes" active="no"/>
-<layer number="19" name="Unrouted" color="6" fill="1" visible="yes" active="no"/>
-<layer number="20" name="Dimension" color="15" fill="1" visible="yes" active="no"/>
-<layer number="21" name="tPlace" color="7" fill="1" visible="yes" active="no"/>
-<layer number="22" name="bPlace" color="7" fill="1" visible="yes" active="no"/>
-<layer number="23" name="tOrigins" color="15" fill="1" visible="yes" active="no"/>
-<layer number="24" name="bOrigins" color="15" fill="1" visible="yes" active="no"/>
-<layer number="25" name="tNames" color="7" fill="1" visible="yes" active="no"/>
-<layer number="26" name="bNames" color="7" fill="1" visible="yes" active="no"/>
-<layer number="27" name="tValues" color="7" fill="1" visible="yes" active="no"/>
-<layer number="28" name="bValues" color="7" fill="1" visible="yes" active="no"/>
+<layer number="1" name="Top" color="4" fill="1" visible="no" active="no"/>
+<layer number="2" name="Route2" color="1" fill="3" visible="no" active="no"/>
+<layer number="3" name="Route3" color="4" fill="3" visible="no" active="no"/>
+<layer number="4" name="Route4" color="1" fill="4" visible="no" active="no"/>
+<layer number="5" name="Route5" color="4" fill="4" visible="no" active="no"/>
+<layer number="6" name="Route6" color="1" fill="8" visible="no" active="no"/>
+<layer number="7" name="Route7" color="4" fill="8" visible="no" active="no"/>
+<layer number="8" name="Route8" color="1" fill="2" visible="no" active="no"/>
+<layer number="9" name="Route9" color="4" fill="2" visible="no" active="no"/>
+<layer number="10" name="Route10" color="1" fill="7" visible="no" active="no"/>
+<layer number="11" name="Route11" color="4" fill="7" visible="no" active="no"/>
+<layer number="12" name="Route12" color="1" fill="5" visible="no" active="no"/>
+<layer number="13" name="Route13" color="4" fill="5" visible="no" active="no"/>
+<layer number="14" name="Route14" color="1" fill="6" visible="no" active="no"/>
+<layer number="15" name="Route15" color="4" fill="6" visible="no" active="no"/>
+<layer number="16" name="Bottom" color="1" fill="1" visible="no" active="no"/>
+<layer number="17" name="Pads" color="2" fill="1" visible="no" active="no"/>
+<layer number="18" name="Vias" color="2" fill="1" visible="no" active="no"/>
+<layer number="19" name="Unrouted" color="6" fill="1" visible="no" active="no"/>
+<layer number="20" name="Dimension" color="15" fill="1" visible="no" active="no"/>
+<layer number="21" name="tPlace" color="7" fill="1" visible="no" active="no"/>
+<layer number="22" name="bPlace" color="7" fill="1" visible="no" active="no"/>
+<layer number="23" name="tOrigins" color="15" fill="1" visible="no" active="no"/>
+<layer number="24" name="bOrigins" color="15" fill="1" visible="no" active="no"/>
+<layer number="25" name="tNames" color="7" fill="1" visible="no" active="no"/>
+<layer number="26" name="bNames" color="7" fill="1" visible="no" active="no"/>
+<layer number="27" name="tValues" color="7" fill="1" visible="no" active="no"/>
+<layer number="28" name="bValues" color="7" fill="1" visible="no" active="no"/>
 <layer number="29" name="tStop" color="7" fill="3" visible="no" active="no"/>
 <layer number="30" name="bStop" color="7" fill="6" visible="no" active="no"/>
 <layer number="31" name="tCream" color="7" fill="4" visible="no" active="no"/>
@@ -44,8 +44,8 @@
 <layer number="34" name="bFinish" color="6" fill="6" visible="no" active="no"/>
 <layer number="35" name="tGlue" color="7" fill="4" visible="no" active="no"/>
 <layer number="36" name="bGlue" color="7" fill="5" visible="no" active="no"/>
-<layer number="37" name="tTest" color="7" fill="1" visible="yes" active="no"/>
-<layer number="38" name="bTest" color="7" fill="1" visible="yes" active="no"/>
+<layer number="37" name="tTest" color="7" fill="1" visible="no" active="no"/>
+<layer number="38" name="bTest" color="7" fill="1" visible="no" active="no"/>
 <layer number="39" name="tKeepout" color="4" fill="11" visible="no" active="no"/>
 <layer number="40" name="bKeepout" color="1" fill="11" visible="no" active="no"/>
 <layer number="41" name="tRestrict" color="4" fill="10" visible="no" active="no"/>
@@ -53,17 +53,17 @@
 <layer number="43" name="vRestrict" color="2" fill="10" visible="no" active="no"/>
 <layer number="44" name="Drills" color="7" fill="1" visible="no" active="no"/>
 <layer number="45" name="Holes" color="7" fill="1" visible="no" active="no"/>
-<layer number="46" name="Milling" color="3" fill="1" visible="yes" active="no"/>
-<layer number="47" name="Measures" color="7" fill="1" visible="yes" active="no"/>
-<layer number="48" name="Document" color="7" fill="1" visible="yes" active="no"/>
-<layer number="49" name="Reference" color="7" fill="1" visible="yes" active="no"/>
-<layer number="50" name="dxf" color="7" fill="1" visible="yes" active="no"/>
-<layer number="51" name="tDocu" color="7" fill="1" visible="yes" active="no"/>
-<layer number="52" name="bDocu" color="7" fill="1" visible="yes" active="no"/>
-<layer number="53" name="tGND_GNDA" color="7" fill="9" visible="yes" active="no"/>
-<layer number="54" name="bGND_GNDA" color="1" fill="9" visible="yes" active="no"/>
-<layer number="56" name="wert" color="7" fill="1" visible="yes" active="no"/>
-<layer number="57" name="tCAD" color="7" fill="1" visible="yes" active="no"/>
+<layer number="46" name="Milling" color="3" fill="1" visible="no" active="no"/>
+<layer number="47" name="Measures" color="7" fill="1" visible="no" active="no"/>
+<layer number="48" name="Document" color="7" fill="1" visible="no" active="no"/>
+<layer number="49" name="Reference" color="7" fill="1" visible="no" active="no"/>
+<layer number="50" name="dxf" color="7" fill="1" visible="no" active="no"/>
+<layer number="51" name="tDocu" color="7" fill="1" visible="no" active="no"/>
+<layer number="52" name="bDocu" color="7" fill="1" visible="no" active="no"/>
+<layer number="53" name="tGND_GNDA" color="7" fill="9" visible="no" active="no"/>
+<layer number="54" name="bGND_GNDA" color="1" fill="9" visible="no" active="no"/>
+<layer number="56" name="wert" color="7" fill="1" visible="no" active="no"/>
+<layer number="57" name="tCAD" color="7" fill="1" visible="no" active="no"/>
 <layer number="91" name="Nets" color="2" fill="1" visible="yes" active="yes"/>
 <layer number="92" name="Busses" color="1" fill="1" visible="yes" active="yes"/>
 <layer number="93" name="Pins" color="2" fill="1" visible="no" active="yes"/>
@@ -202,22 +202,22 @@ DIN A3, landscape with extra doc field</description>
 <wire x1="4.89" y1="-1.9" x2="-4.89" y2="-1.9" width="0.2032" layer="21"/>
 <wire x1="-4.89" y1="-1.9" x2="-4.89" y2="1.9" width="0.2032" layer="21"/>
 <circle x="-4.165" y="-1.3" radius="0.325" width="0.2032" layer="21"/>
-<smd name="1" x="-4.445" y="-2.65" dx="0.4" dy="1.2" layer="1"/>
-<smd name="2" x="-3.175" y="-2.65" dx="0.4" dy="1.2" layer="1"/>
-<smd name="3" x="-1.905" y="-2.65" dx="0.4" dy="1.2" layer="1"/>
-<smd name="4" x="-0.635" y="-2.65" dx="0.4" dy="1.2" layer="1"/>
-<smd name="5" x="0.635" y="-2.65" dx="0.4" dy="1.2" layer="1"/>
-<smd name="6" x="1.905" y="-2.65" dx="0.4" dy="1.2" layer="1"/>
-<smd name="7" x="3.175" y="-2.65" dx="0.4" dy="1.2" layer="1"/>
-<smd name="8" x="4.445" y="-2.65" dx="0.4" dy="1.2" layer="1"/>
-<smd name="9" x="4.445" y="2.65" dx="0.4" dy="1.2" layer="1" rot="R180"/>
-<smd name="10" x="3.175" y="2.65" dx="0.4" dy="1.2" layer="1" rot="R180"/>
-<smd name="11" x="1.905" y="2.65" dx="0.4" dy="1.2" layer="1" rot="R180"/>
-<smd name="12" x="0.635" y="2.65" dx="0.4" dy="1.2" layer="1" rot="R180"/>
-<smd name="13" x="-0.635" y="2.65" dx="0.4" dy="1.2" layer="1" rot="R180"/>
-<smd name="14" x="-1.905" y="2.65" dx="0.4" dy="1.2" layer="1" rot="R180"/>
-<smd name="15" x="-3.175" y="2.65" dx="0.4" dy="1.2" layer="1" rot="R180"/>
-<smd name="16" x="-4.445" y="2.65" dx="0.4" dy="1.2" layer="1" rot="R180"/>
+<smd name="1" x="-4.445" y="-2.7" dx="0.55" dy="1.5" layer="1"/>
+<smd name="2" x="-3.175" y="-2.7" dx="0.55" dy="1.5" layer="1"/>
+<smd name="3" x="-1.905" y="-2.7" dx="0.55" dy="1.5" layer="1"/>
+<smd name="4" x="-0.635" y="-2.7" dx="0.55" dy="1.5" layer="1"/>
+<smd name="5" x="0.635" y="-2.7" dx="0.55" dy="1.5" layer="1"/>
+<smd name="6" x="1.905" y="-2.7" dx="0.55" dy="1.5" layer="1"/>
+<smd name="7" x="3.175" y="-2.7" dx="0.55" dy="1.5" layer="1"/>
+<smd name="8" x="4.445" y="-2.7" dx="0.55" dy="1.5" layer="1"/>
+<smd name="9" x="4.445" y="2.7" dx="0.55" dy="1.5" layer="1" rot="R180"/>
+<smd name="10" x="3.175" y="2.7" dx="0.55" dy="1.5" layer="1" rot="R180"/>
+<smd name="11" x="1.905" y="2.7" dx="0.55" dy="1.5" layer="1" rot="R180"/>
+<smd name="12" x="0.635" y="2.7" dx="0.55" dy="1.5" layer="1" rot="R180"/>
+<smd name="13" x="-0.635" y="2.7" dx="0.55" dy="1.5" layer="1" rot="R180"/>
+<smd name="14" x="-1.905" y="2.7" dx="0.55" dy="1.5" layer="1" rot="R180"/>
+<smd name="15" x="-3.175" y="2.7" dx="0.55" dy="1.5" layer="1" rot="R180"/>
+<smd name="16" x="-4.445" y="2.7" dx="0.55" dy="1.5" layer="1" rot="R180"/>
 <text x="-5.08" y="-2.54" size="1.27" layer="25" rot="R90">&gt;NAME</text>
 <text x="-3.81" y="-0.635" size="1.27" layer="27">&gt;VALUE</text>
 <rectangle x1="-4.595" y1="-3.05" x2="-4.295" y2="-1.98" layer="51"/>
@@ -268,11 +268,11 @@ DIN A3, landscape with extra doc field</description>
 <wire x1="-1.2" y1="-0.635" x2="-1.2" y2="0.635" width="0.127" layer="21"/>
 </package>
 <package name="R0805(2012)">
-<description>Followed layout recommendation from Johanson Technology Inc.</description>
+<description>pattern modfied for easy manual soldering</description>
 <wire x1="-0.381" y1="0.66" x2="0.381" y2="0.66" width="0.1016" layer="51"/>
 <wire x1="-0.356" y1="-0.66" x2="0.381" y2="-0.66" width="0.1016" layer="51"/>
-<smd name="1" x="-0.95" y="0" dx="0.7" dy="1.5" layer="1"/>
-<smd name="2" x="0.95" y="0" dx="0.7" dy="1.5" layer="1"/>
+<smd name="1" x="-1" y="0" dx="0.9" dy="1.5" layer="1"/>
+<smd name="2" x="1" y="0" dx="0.9" dy="1.5" layer="1"/>
 <text x="-0.889" y="1.016" size="1.27" layer="25">&gt;NAME</text>
 <text x="-0.889" y="-2.286" size="1.27" layer="27">&gt;VALUE</text>
 <rectangle x1="-1.0922" y1="-0.7239" x2="-0.3421" y2="0.7262" layer="51"/>
@@ -329,11 +329,11 @@ WSR25L000FEA / Vshay</description>
 <wire x1="-1.2" y1="-0.635" x2="-1.2" y2="0.635" width="0.127" layer="21"/>
 </package>
 <package name="C0805(2012)">
-<description>Followed layout recommendation from Johanson Technology Inc.</description>
+<description>pattern modfied for easy manual soldering</description>
 <wire x1="-0.381" y1="0.66" x2="0.381" y2="0.66" width="0.1016" layer="51"/>
 <wire x1="-0.356" y1="-0.66" x2="0.381" y2="-0.66" width="0.1016" layer="51"/>
-<smd name="1" x="-0.95" y="0" dx="0.7" dy="1.5" layer="1"/>
-<smd name="2" x="0.95" y="0" dx="0.7" dy="1.5" layer="1"/>
+<smd name="1" x="-1" y="0" dx="0.9" dy="1.5" layer="1"/>
+<smd name="2" x="1" y="0" dx="0.9" dy="1.5" layer="1"/>
 <text x="-0.889" y="1.016" size="1.27" layer="25">&gt;NAME</text>
 <text x="-0.889" y="-2.286" size="1.27" layer="27">&gt;VALUE</text>
 <rectangle x1="-1.0922" y1="-0.7239" x2="-0.3421" y2="0.7262" layer="51"/>
@@ -25316,10 +25316,10 @@ Source: http://www.bourns.com/data/global/PDFs/3223.PDF</description>
 <part name="TVS2" library="WaterDrop" deviceset="TVS" device=""/>
 <part name="TVS3" library="WaterDrop" deviceset="TVS" device=""/>
 <part name="TVS4" library="WaterDrop" deviceset="TVS" device=""/>
-<part name="R2" library="WaterDrop" deviceset="R" device="0805(2012)" value="2.2k"/>
+<part name="R2" library="WaterDrop" deviceset="R" device="0805(2012)" value="1k"/>
 <part name="STRUT_GND1" library="WaterDrop" deviceset="STRUT_GND" device=""/>
 <part name="GND4" library="supply1" deviceset="GND" device=""/>
-<part name="R1" library="WaterDrop" deviceset="R" device="0805(2012)" value="1M"/>
+<part name="R1" library="WaterDrop" deviceset="R" device="0805(2012)" value="620k"/>
 <part name="C4" library="WaterDrop" deviceset="C" device="0805(2012)" value="0.1uF"/>
 <part name="IC6" library="microchip" deviceset="PIC16F193*" device="PT" technology="9"/>
 <part name="JP2" library="SparkFun-Connectors" deviceset="M05" device="PTH"/>
@@ -25333,7 +25333,7 @@ Source: http://www.bourns.com/data/global/PDFs/3223.PDF</description>
 <part name="P+1" library="supply1" deviceset="+5V" device=""/>
 <part name="GND1" library="supply1" deviceset="GND" device=""/>
 <part name="R3" library="WaterDrop" deviceset="R" device="0805(2012)" value="220"/>
-<part name="R4" library="WaterDrop" deviceset="R" device="0805(2012)"/>
+<part name="R4" library="WaterDrop" deviceset="R" device="0805(2012)" value="1k"/>
 <part name="+3.3V2" library="yBrainDigital" deviceset="+3.3V" device=""/>
 <part name="GND2" library="supply1" deviceset="GND" device=""/>
 <part name="LED2" library="adafruit" deviceset="LED" device="CHIPLED_0805"/>
@@ -25395,8 +25395,8 @@ Source: http://www.bourns.com/data/global/PDFs/3223.PDF</description>
 <part name="GND32" library="supply1" deviceset="GND" device=""/>
 <part name="GND33" library="supply1" deviceset="GND" device=""/>
 <part name="JP1" library="pinhead" deviceset="PINHD-2X16" device="/90"/>
-<part name="RN1" library="resistor-sil" deviceset="G08R" device=""/>
-<part name="RN2" library="resistor-sil" deviceset="G08R" device=""/>
+<part name="RN1" library="resistor-sil" deviceset="G08R" device="" value="4.7k"/>
+<part name="RN2" library="resistor-sil" deviceset="G08R" device="" value="4.7k"/>
 <part name="GND12" library="supply1" deviceset="GND" device=""/>
 <part name="GND20" library="supply1" deviceset="GND" device=""/>
 <part name="GND25" library="supply1" deviceset="GND" device=""/>
@@ -25404,21 +25404,21 @@ Source: http://www.bourns.com/data/global/PDFs/3223.PDF</description>
 <part name="JP3" library="SparkFun-Connectors" deviceset="M02" device="PTH"/>
 <part name="JP4" library="SparkFun-Connectors" deviceset="M02" device="PTH"/>
 <part name="JP6" library="SparkFun-Connectors" deviceset="M02" device="PTH"/>
-<part name="R23" library="WaterDrop" deviceset="R" device="0805(2012)" value="2.2k"/>
-<part name="R24" library="WaterDrop" deviceset="R" device="0805(2012)" value="2.2k"/>
-<part name="R25" library="WaterDrop" deviceset="R" device="0805(2012)" value="2.2k"/>
-<part name="R26" library="WaterDrop" deviceset="R" device="0805(2012)" value="2.2k"/>
-<part name="R27" library="WaterDrop" deviceset="R" device="0805(2012)" value="2.2k"/>
-<part name="R28" library="WaterDrop" deviceset="R" device="0805(2012)" value="2.2k"/>
-<part name="R29" library="WaterDrop" deviceset="R" device="0805(2012)" value="2.2k"/>
-<part name="R30" library="WaterDrop" deviceset="R" device="0805(2012)" value="2.2k"/>
-<part name="R31" library="WaterDrop" deviceset="R" device="0805(2012)" value="2.2k"/>
-<part name="R32" library="WaterDrop" deviceset="R" device="0805(2012)" value="2.2k"/>
-<part name="R33" library="WaterDrop" deviceset="R" device="0805(2012)" value="2.2k"/>
-<part name="R34" library="WaterDrop" deviceset="R" device="0805(2012)" value="2.2k"/>
-<part name="R35" library="WaterDrop" deviceset="R" device="0805(2012)" value="2.2k"/>
-<part name="R36" library="WaterDrop" deviceset="R" device="0805(2012)" value="2.2k"/>
-<part name="R37" library="WaterDrop" deviceset="R" device="0805(2012)" value="2.2k"/>
+<part name="R23" library="WaterDrop" deviceset="R" device="0805(2012)" value="1k"/>
+<part name="R24" library="WaterDrop" deviceset="R" device="0805(2012)" value="1k"/>
+<part name="R25" library="WaterDrop" deviceset="R" device="0805(2012)" value="1k"/>
+<part name="R26" library="WaterDrop" deviceset="R" device="0805(2012)" value="1k"/>
+<part name="R27" library="WaterDrop" deviceset="R" device="0805(2012)" value="1k"/>
+<part name="R28" library="WaterDrop" deviceset="R" device="0805(2012)" value="1k"/>
+<part name="R29" library="WaterDrop" deviceset="R" device="0805(2012)" value="1k"/>
+<part name="R30" library="WaterDrop" deviceset="R" device="0805(2012)" value="1k"/>
+<part name="R31" library="WaterDrop" deviceset="R" device="0805(2012)" value="1k"/>
+<part name="R32" library="WaterDrop" deviceset="R" device="0805(2012)" value="1k"/>
+<part name="R33" library="WaterDrop" deviceset="R" device="0805(2012)" value="1k"/>
+<part name="R34" library="WaterDrop" deviceset="R" device="0805(2012)" value="1k"/>
+<part name="R35" library="WaterDrop" deviceset="R" device="0805(2012)" value="1k"/>
+<part name="R36" library="WaterDrop" deviceset="R" device="0805(2012)" value="1k"/>
+<part name="R37" library="WaterDrop" deviceset="R" device="0805(2012)" value="1k"/>
 <part name="LED3" library="adafruit" deviceset="LED" device="CHIPLED_0805"/>
 <part name="LED4" library="adafruit" deviceset="LED" device="CHIPLED_0805"/>
 <part name="LED5" library="adafruit" deviceset="LED" device="CHIPLED_0805"/>
@@ -25449,7 +25449,7 @@ Source: http://www.bourns.com/data/global/PDFs/3223.PDF</description>
 <part name="GND47" library="supply1" deviceset="GND" device=""/>
 <part name="GND48" library="supply1" deviceset="GND" device=""/>
 <part name="GND49" library="supply1" deviceset="GND" device=""/>
-<part name="R38" library="pot" deviceset="TRIM_US-" device="B25P" value="10k"/>
+<part name="R38" library="pot" deviceset="TRIM_US-" device="B25P" value="100k"/>
 <part name="+3.3V10" library="yBrainDigital" deviceset="+3.3V" device=""/>
 <part name="GND7" library="supply1" deviceset="GND" device=""/>
 <part name="C13" library="WaterDrop" deviceset="C" device="0805(2012)" value="0.1uF"/>
@@ -25478,7 +25478,7 @@ Source: http://www.bourns.com/data/global/PDFs/3223.PDF</description>
 <part name="STRUT_GND2" library="WaterDrop" deviceset="STRUT_GND" device=""/>
 <part name="C15" library="WaterDrop" deviceset="C" device="0805(2012)" value="0.1uF"/>
 <part name="C16" library="yBrainDigital" deviceset="C-TANTAL-A" device=""/>
-<part name="R7" library="WaterDrop" deviceset="R" device="0805(2012)" value="2.2k"/>
+<part name="R7" library="WaterDrop" deviceset="R" device="0805(2012)" value="1k"/>
 <part name="LED17" library="adafruit" deviceset="LED" device="CHIPLED_0805"/>
 <part name="GND54" library="supply1" deviceset="GND" device=""/>
 <part name="U$1" library="WaterDrop" deviceset="LOGO" device=""/>
