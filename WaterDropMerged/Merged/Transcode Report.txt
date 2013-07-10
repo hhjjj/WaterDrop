@@ -4,3 +4,39 @@
 
 D10   --> D102
 -----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\OSSI\AppData\Local\Temp\Merged_importZIP\merged.oln' ----   Mon Jul 08 00:48:25 2013
+
+D10   --> D102
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\OSSI\AppData\Local\Temp\Merged_importZIP\merged.oln' ----   Tue Jul 09 15:30:29 2013
+
+D10   --> D102
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\OSSI\AppData\Local\Temp\Merged_importZIP\merged.oln' ----   Wed Jul 10 20:45:41 2013
+
+D10   --> D102
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\OSSI\AppData\Local\Temp\Merged_importZIP\merged.oln' ----   Wed Jul 10 20:47:02 2013
+
+D10   --> D102
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\OSSI\AppData\Local\Temp\Merged_importZIP\merged.oln' ----   Wed Jul 10 20:47:56 2013
+
+D10   --> D102
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\OSSI\AppData\Local\Temp\Merged_importZIP\merged.oln' ----   Wed Jul 10 20:49:17 2013
+
+D10   --> D102
+-----------------------------------------------------------------
