@@ -25325,8 +25325,8 @@ Source: http://www.bourns.com/data/global/PDFs/3223.PDF</description>
 <part name="JP7" library="SparkFun-Connectors" deviceset="M05" device="PTH"/>
 <part name="U1" library="OSSI" deviceset="MCP1700" device="_SOT23"/>
 <part name="D1" library="WaterDrop" deviceset="SD0" device=""/>
-<part name="C1" library="yBrainDigital" deviceset="C-TANTAL-A" device=""/>
-<part name="C5" library="yBrainDigital" deviceset="C-TANTAL-A" device=""/>
+<part name="C1" library="yBrainDigital" deviceset="C-TANTAL-A" device="" value="10uF"/>
+<part name="C5" library="yBrainDigital" deviceset="C-TANTAL-A" device="" value="10uF"/>
 <part name="OK1" library="optocoupler" deviceset="4N*?M" device="S" technology="35"/>
 <part name="D2" library="WaterDrop" deviceset="SD0" device=""/>
 <part name="+3.3V1" library="yBrainDigital" deviceset="+3.3V" device=""/>
@@ -25477,9 +25477,9 @@ Source: http://www.bourns.com/data/global/PDFs/3223.PDF</description>
 <part name="H4" library="holes" deviceset="MOUNT-PAD-ROUND" device="3.2"/>
 <part name="STRUT_GND2" library="WaterDrop" deviceset="STRUT_GND" device=""/>
 <part name="C4" library="WaterDrop" deviceset="C" device="0805(2012)" value="0.1uF"/>
-<part name="C2" library="yBrainDigital" deviceset="C-TANTAL-A" device=""/>
+<part name="C2" library="yBrainDigital" deviceset="C-TANTAL-A" device="" value="10uF"/>
 <part name="R21" library="WaterDrop" deviceset="R" device="0805(2012)" value="1k"/>
-<part name="LED17" library="adafruit" deviceset="LED" device="CHIPLED_0805"/>
+<part name="LED17" library="adafruit" deviceset="LED" device="CHIPLED_0805" value="Yellow"/>
 <part name="GND54" library="supply1" deviceset="GND" device=""/>
 <part name="U$1" library="WaterDrop" deviceset="LOGO" device=""/>
 </parts>

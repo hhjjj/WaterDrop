@@ -1,0 +1,23 @@
+Partlist
+
+Exported from WaterDrop.sch at 2013-07-10 ¿ÀÈÄ 9:55:58
+
+EAGLE Version 6.1.0 Copyright (c) 1988-2012 CadSoft
+
+Assembly variant: 
+
+Part     Value          Device      Package     Library             Sheet
+
+C1       100pF          C0603(1608) C0603(1608) WaterDrop           1
+C2       0.1uF          C0603(1608) C0603(1608) WaterDrop           1
+C3       0.1uF          C0603(1608) C0603(1608) WaterDrop           1
+C4       0.1uF          C0603(1608) C0603(1608) WaterDrop           1
+D1       SD0            SD0         SOD-323     WaterDrop           1
+IC1      PIC12F1822     PIC12F1822  SO8         WaterDrop           1
+JP1      M02PTH         M02PTH      1X02        SparkFun-Connectors 1
+JP2      2PIN           2PIN        2PIN5.08    WaterDrop           1
+JP3                     M05PTH      1X05        SparkFun-Connectors 1
+LED1                    LED0603     LED-0603    SparkFun            1
+R1       10k            R0603(1608) R0603(1608) WaterDrop           1
+R2       1M             R0603(1608) R0603(1608) WaterDrop           1
+R3       2.2k           R0603(1608) R0603(1608) WaterDrop           1

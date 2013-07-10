@@ -1,0 +1,105 @@
+Partlist
+
+Exported from randomcontroller.sch at 2013-07-10 ¿ÀÈÄ 9:50:57
+
+EAGLE Version 6.1.0 Copyright (c) 1988-2012 CadSoft
+
+Assembly variant: 
+
+Part     Value              Device             Package       Library             Sheet
+
+C1       10uF               C-TANTAL-A         C1206(3216)-A yBrainDigital       1
+C2       10uF               C-TANTAL-A         C1206(3216)-A yBrainDigital       1
+C3       0.1uF              C0805(2012)        C0805(2012)   WaterDrop           1
+C4       0.1uF              C0805(2012)        C0805(2012)   WaterDrop           1
+C5       10uF               C-TANTAL-A         C1206(3216)-A yBrainDigital       1
+C6       0.1uF              C0805(2012)        C0805(2012)   WaterDrop           1
+C7       0.1uF              C0805(2012)        C0805(2012)   WaterDrop           1
+C8       12.5pF             C0805(2012)        C0805(2012)   WaterDrop           1
+C9       12.5pF             C0805(2012)        C0805(2012)   WaterDrop           1
+C10      0.1uF              C0805(2012)        C0805(2012)   WaterDrop           1
+C11      0.1uF              C0805(2012)        C0805(2012)   WaterDrop           1
+C12      0.1uF              C0805(2012)        C0805(2012)   WaterDrop           1
+C13      0.1uF              C0805(2012)        C0805(2012)   WaterDrop           1
+C14      0.1uF              C0805(2012)        C0805(2012)   WaterDrop           1
+C15      0.1uF              C0805(2012)        C0805(2012)   WaterDrop           1
+C16      0.1uF              C0805(2012)        C0805(2012)   WaterDrop           1
+D1       SD0                SD0                SOD-323       WaterDrop           1
+D2       SD0                SD0                SOD-323       WaterDrop           1
+H1       MOUNT-PAD-ROUND3.2 MOUNT-PAD-ROUND3.2 3,2-PAD       holes               1
+H2       MOUNT-PAD-ROUND3.2 MOUNT-PAD-ROUND3.2 3,2-PAD       holes               1
+H3       MOUNT-PAD-ROUND3.2 MOUNT-PAD-ROUND3.2 3,2-PAD       holes               1
+H4       MOUNT-PAD-ROUND3.2 MOUNT-PAD-ROUND3.2 3,2-PAD       holes               1
+IC1      TPS2054B           TPS2054B           R-PDSO-G16    WaterDrop           1
+IC2      TPS2054B           TPS2054B           R-PDSO-G16    WaterDrop           1
+IC3      TPS2054B           TPS2054B           R-PDSO-G16    WaterDrop           1
+IC4      PIC16F1939PT       PIC16F1939PT       TQFP44        microchip           1
+IC5      TPS2054B           TPS2054B           R-PDSO-G16    WaterDrop           1
+JP1      M02PTH             M02PTH             1X02          SparkFun-Connectors 1
+JP2      M02PTH             M02PTH             1X02          SparkFun-Connectors 1
+JP3                         PINHD-2X16/90      2X16/90       pinhead             1
+JP4                         M03PTH             1X03          SparkFun-Connectors 1
+JP5                         M03PTH             1X03          SparkFun-Connectors 1
+JP6                         M03PTH             1X03          SparkFun-Connectors 1
+JP7                         M05PTH             1X05          SparkFun-Connectors 1
+JP8      M02PTH             M02PTH             1X02          SparkFun-Connectors 1
+LED1                        LEDCHIPLED_0805    CHIPLED_0805  adafruit            1
+LED2                        LEDCHIPLED_0805    CHIPLED_0805  adafruit            1
+LED3                        LEDCHIPLED_0805    CHIPLED_0805  adafruit            1
+LED4                        LEDCHIPLED_0805    CHIPLED_0805  adafruit            1
+LED5                        LEDCHIPLED_0805    CHIPLED_0805  adafruit            1
+LED6                        LEDCHIPLED_0805    CHIPLED_0805  adafruit            1
+LED7                        LEDCHIPLED_0805    CHIPLED_0805  adafruit            1
+LED8                        LEDCHIPLED_0805    CHIPLED_0805  adafruit            1
+LED9                        LEDCHIPLED_0805    CHIPLED_0805  adafruit            1
+LED10                       LEDCHIPLED_0805    CHIPLED_0805  adafruit            1
+LED11                       LEDCHIPLED_0805    CHIPLED_0805  adafruit            1
+LED12                       LEDCHIPLED_0805    CHIPLED_0805  adafruit            1
+LED13                       LEDCHIPLED_0805    CHIPLED_0805  adafruit            1
+LED14                       LEDCHIPLED_0805    CHIPLED_0805  adafruit            1
+LED15                       LEDCHIPLED_0805    CHIPLED_0805  adafruit            1
+LED16                       LEDCHIPLED_0805    CHIPLED_0805  adafruit            1
+LED17    Yellow             LEDCHIPLED_0805    CHIPLED_0805  adafruit            1
+OK1      4N35SM             4N35SM             DIL6-SMD      optocoupler         1
+Q1       NX-3215            NX-3215            NX-3215       OSSI                1
+R1       1k                 R0805(2012)        R0805(2012)   WaterDrop           1
+R2       1k                 R0805(2012)        R0805(2012)   WaterDrop           1
+R3       1k                 R0805(2012)        R0805(2012)   WaterDrop           1
+R4       1k                 R0805(2012)        R0805(2012)   WaterDrop           1
+R5       620k               R0805(2012)        R0805(2012)   WaterDrop           1
+R6       1k                 R0805(2012)        R0805(2012)   WaterDrop           1
+R7       1k                 R0805(2012)        R0805(2012)   WaterDrop           1
+R8       1k                 R0805(2012)        R0805(2012)   WaterDrop           1
+R9       1k                 R0805(2012)        R0805(2012)   WaterDrop           1
+R10      1k                 R0805(2012)        R0805(2012)   WaterDrop           1
+R11      1k                 R0805(2012)        R0805(2012)   WaterDrop           1
+R12      1k                 R0805(2012)        R0805(2012)   WaterDrop           1
+R13      1k                 R0805(2012)        R0805(2012)   WaterDrop           1
+R14      1k                 R0805(2012)        R0805(2012)   WaterDrop           1
+R15      1k                 R0805(2012)        R0805(2012)   WaterDrop           1
+R16      DNP                R0805(2012)        R0805(2012)   WaterDrop           1
+R17      1k                 R0805(2012)        R0805(2012)   WaterDrop           1
+R18      1k                 R0805(2012)        R0805(2012)   WaterDrop           1
+R19      10k                R0805(2012)        R0805(2012)   WaterDrop           1
+R20      1k                 R0805(2012)        R0805(2012)   WaterDrop           1
+R21      1k                 R0805(2012)        R0805(2012)   WaterDrop           1
+R22      1k                 R0805(2012)        R0805(2012)   WaterDrop           1
+R23      10k                R0805(2012)        R0805(2012)   WaterDrop           1
+R24      10k                R0805(2012)        R0805(2012)   WaterDrop           1
+R25      100k               TRIM_US-B25P       B25P          pot                 1
+R26      10k                R0805(2012)        R0805(2012)   WaterDrop           1
+R27      10k                R0805(2012)        R0805(2012)   WaterDrop           1
+R28      10k                R0805(2012)        R0805(2012)   WaterDrop           1
+R29      1k                 R0805(2012)        R0805(2012)   WaterDrop           1
+R30      220                R0805(2012)        R0805(2012)   WaterDrop           1
+RN1      4.7k               G08R               SIL9          resistor-sil        1
+RN2      4.7k               G08R               SIL9          resistor-sil        1
+S1                          S20BCD             S20BCD        switch-dil          1
+S2                          S20BCD             S20BCD        switch-dil          1
+S3                          SWITCH             SKHLACA010    WaterDrop           1
+TP1      TP                 TP                 TP-13         OSSI                1
+TVS1     TVS                TVS                TSOP-6        WaterDrop           1
+TVS2     TVS                TVS                TSOP-6        WaterDrop           1
+TVS3     TVS                TVS                TSOP-6        WaterDrop           1
+TVS4     TVS                TVS                TSOP-6        WaterDrop           1
+U1       MCP1700_SOT23      MCP1700_SOT23      SOT23         OSSI                1

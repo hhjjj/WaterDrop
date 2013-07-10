@@ -42248,7 +42248,7 @@ WSR25L000FEA / Vshay</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="TVS" prefix="TVS">
+<deviceset name="NUP4302MR6" prefix="TVS">
 <gates>
 <gate name="G$1" symbol="NUP4302MR6" x="0" y="0"/>
 </gates>
